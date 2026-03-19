@@ -1,4 +1,5 @@
 # Weather App
+<img width="1919" height="957" alt="weather" src="https://github.com/user-attachments/assets/18b44f55-fff7-44c8-9da8-39ac66dd9f01" />
 
 ## Overview
 
