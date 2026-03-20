@@ -29,3 +29,10 @@ https://github.com/esraamhmd/weather-App/assets/145714762/6a53735f-850e-4229-a0d
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/esraamhmd/weather-App.git
+
+
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
